@@ -4,6 +4,8 @@
 
 This project focuses on binary classification using a neural network with a softmax layer on the Sonar dataset. The Sonar dataset classifies sonar signals bouncing off either rocks or metal cylinders. Each feature in the dataset represents sonar intensity in different frequency bands, enabling the model to distinguish patterns specific to each object type. We use TensorFlow to build, train, and evaluate the model.
 
+## Dataset can be downloaded from Datasets folder, named as  `sonar.csv`
+
 ## Dataset Overview
 
 - **Sonar Dataset**: Contains 208 samples with 60 features each.
@@ -11,7 +13,5 @@ This project focuses on binary classification using a neural network with a soft
 - **Target Labels**: 
   - 'R' for rock.
   - 'M' for metal cylinder.
-
-## Dataset can be dowloaded from Datasets folder, named as  `sonar.csv`
 
 This binary classification challenge helps assess how well a neural network with a softmax layer can distinguish nuanced frequency patterns across multiple features.
