@@ -22,7 +22,7 @@ Let's break down the results you should see when different values are passed to 
    ```
    Since `x = 0`, the output should be:
   ```bash
-                              w⋅0+b=b
+  w⋅0+b=b
 
   ```
    This means the output will be equal to `b`. Given `b = 1.0`, the output will be `1.0` even when there is no input effect. This highlights how the bias shifts the output independently of the input.
@@ -33,7 +33,7 @@ Let's break down the results you should see when different values are passed to 
    ```
    For each value of `x`, the output is calculated as:
    ```bash
-                             output=w⋅x+b
+   output=w⋅x+b
     ```
    With `w = 2.0` and `b = 1.0`, this means:
    - For \( x = 1.0 \): Output = \( 2 * 1.0 + 1.0 = 3.0 \)
