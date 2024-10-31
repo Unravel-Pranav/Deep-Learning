@@ -12,4 +12,6 @@ This project focuses on binary classification using a neural network with a soft
   - 'R' for rock.
   - 'M' for metal cylinder.
 
+## Dataset can be dowloaded from Datasets folder, named as  `sonar.csv`
+
 This binary classification challenge helps assess how well a neural network with a softmax layer can distinguish nuanced frequency patterns across multiple features.
