@@ -41,4 +41,5 @@ This architecture is a minimal setup, enabling the model to learn basic pixel-le
 - **Loss Curve**: A cost function plot shows the model’s loss over each epoch, visualizing the learning process.
 - **Prediction Visualization**: Sample test images are displayed with predicted and actual labels to visually assess model performance.
 
-This project provides a hands-on understanding of how single-layer perceptrons work, demonstrating a foundational approach to binary image classification.
+This notebook provides a hands-on understanding of how single-layer perceptrons work, demonstrating a foundational approach to binary image classification.
+
